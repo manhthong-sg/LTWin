@@ -1,0 +1,13 @@
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\bin\Debug\netcoreapp3.1\LTWinBuoi3.exe
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\bin\Debug\netcoreapp3.1\LTWinBuoi3.deps.json
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\bin\Debug\netcoreapp3.1\LTWinBuoi3.runtimeconfig.json
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\bin\Debug\netcoreapp3.1\LTWinBuoi3.runtimeconfig.dev.json
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\bin\Debug\netcoreapp3.1\LTWinBuoi3.dll
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\bin\Debug\netcoreapp3.1\LTWinBuoi3.pdb
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.csprojAssemblyReference.cache
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.csproj.CoreCompileInputs.cache
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.AssemblyInfoInputs.cache
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.AssemblyInfo.cs
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.dll
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.pdb
+D:\Mạnh Thông\LT Windows\LTWinBuoi3\LTWinBuoi3\obj\Debug\netcoreapp3.1\LTWinBuoi3.genruntimeconfig.cache
